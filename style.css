@@ -168,11 +168,17 @@ main h1 {
   text-transform: uppercase;
 }
 
-footer p {
+#made {
+  font-size: 14px;
+  color: #444444;
   text-align: center;
-  padding: 1.6rem;
-  font-weight: 600;
-  opacity: 0.56;
+  margin-top: 5px;
+  padding-bottom: 5px;
+}
+
+#made a {
+  color: #8d8d8d;
+  text-decoration: none;
 }
 
 header {
